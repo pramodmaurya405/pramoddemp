@@ -1,3 +1,3 @@
-# pramoddemp
+cd# pramoddemp
 this is my demo repo<br>
-Author -pramod maurya
+Author -pramod kumar maurya
